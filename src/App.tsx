@@ -31,7 +31,6 @@ function App() {
       const heroSection = document.getElementById('hero');
       const aboutSection = document.getElementById('about');
       const experienceSection = document.getElementById('experience');
-      const scrollVelocity = document.getElementById('scroll-velocity');
 
       if (!heroSection || !aboutSection || !experienceSection) return;
 
@@ -40,7 +39,6 @@ function App() {
 
       const heroBottom = heroSection.offsetTop + heroSection.offsetHeight;
       const footerTop = experienceSection.offsetTop;
-      const scrollVelocityTop = scrollVelocity ? scrollVelocity.offsetTop : 0;
       // Detectar se hero está em foco
       const heroInFocus = scrollTop <= heroBottom - windowHeight / 3;
 

@@ -9,14 +9,14 @@ i18n
   .use(initReactI18next)
   .init({
     fallbackLng: 'pt',
-    debug: true,
+    debug: false, // Desabilite o debug em produção
     lng: 'pt',
     supportedLngs: ['pt', 'en'],
     interpolation: {
       escapeValue: false
     },
     backend: {
-      loadPath: '/locales/{{lng}}/translation.json'
+      loadPath: './locales/{{lng}}/translation.json' // Use caminho relativo
     }
   });
 

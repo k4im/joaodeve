@@ -1,0 +1,16 @@
+{
+    "fullstack.hero": "FULL STACK DEVELOPER",
+    "fullstack.hero.description": "Do front ao back, soluções completas em código.",
+    "fullstack.nav.home": "HOME",
+    "fullstack.nav.about": "SOBRE",
+    "fullstack.nav.contact": "CONTATO",
+    "fullstack.about.title": "Olá, me chamo João Victor",
+    "fullstack.about.description": "Homem negro, catarinense, graduando em Analise de Sistemas. Desenvolvedor fullstack que possui uma ampla gama de habilidades, incluindo experiência na implementação de sistemas multitenants e trabalhando com microserviços. Conhecimento abrange desde o desenvolvimento front-end até o back- end, permitindo-lhe criar soluções completas e escaláveis. Conhecimento técnico sólido e experiência prática, esse desenvolvedor é capaz de enfrentar desafios complexos e contribuir significativamente para o sucesso de projetos de desenvolvimento de software.",
+    "footer.left.title.1": "Boas praticas.",
+    "footer.left.title.2": "Bons resultados.",
+    "footer.right.text": "CONTATO",
+    "experience.description.bizzup": "Desenvolvimento de software ominichannel multi-tenant, trabalhando com Nest.js, React. Atuando com a frente de GitOps criando um cenário automatizado para analise de PR utilizando SonarQube e Trivy para analise de vulnerabilidades, além de automatizar o deploy para ambientes K8S.",
+    "experience.description.ndd": "Desenvolvimento e manutenção de sistema SAAS no ramo da Logistica, trabalhando com a integração de novos parceiros e efetuando desenvolvimento de novas features. Software arquitetado para funcionamento em micro-serviços, utilizando Asp.Net, AngularJS, ReactNative e DotNetFramework.",
+    "experience.description.platon": "Desenvolvimento e manutenção de sistemas SAAS para provedores de internet, incluindo a criação de uma central do cliente em Node.js e React, com foco na integração fluida com softwares de provedores.",
+    "experience.description.platon.2": "Experiência em administração e manutenção de servidores em nuvem, incluindo resolução de problemas relacionados à infraestrutura e suporte a hospedagem de domínios e emails."
+}

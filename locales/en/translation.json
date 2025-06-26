@@ -1,0 +1,16 @@
+{
+    "fullstack.hero": "FULL STACK DEVELOPER",
+    "fullstack.hero.description": "From front to back, full software development.",
+    "fullstack.nav.home": "HOME",
+    "fullstack.nav.about": "ABOUT",
+    "fullstack.nav.contact": "CONTACT",
+    "fullstack.about.title": "Hello, my name is João Victor",
+    "fullstack.about.description": "Black man from Santa Catarina, studying Systems Analysis. Full stack developer who possesses a wide range of skills, including experience in implementing multitenant systems and working with microservices. Knowledge spans from front-end to back-end development, allowing him to create complete and scalable solutions. With solid technical knowledge and practical experience, this developer is capable of facing complex challenges and contributing significantly to the success of software development projects.",
+    "footer.left.title.1": "Good practices.",
+    "footer.left.title.2": "Good results.",
+    "footer.right.text": "CONTACT",
+    "experience.description.bizzup": "Development of multi-tenant omnichannel software, working with Nest.js and React. Working on the GitOps front creating an automated scenario for PR analysis using SonarQube and Trivy for vulnerability analysis, in addition to automating deployment to K8S environments.",
+    "experience.description.ndd": "Development and maintenance of SAAS system in the Logistics sector, working with the integration of new partners and developing new features. Software architected to work in microservices, using Asp.Net, AngularJS, ReactNative and DotNetFramework.",
+    "experience.description.platon": "Development and maintenance of SAAS systems for internet providers, including the creation of a customer center in Node.js and React, with focus on seamless integration with provider software.",
+    "experience.description.platon.2": "Experience in administration and maintenance of cloud servers, including troubleshooting infrastructure-related issues and supporting domain and email hosting."
+}

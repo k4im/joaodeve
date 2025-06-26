@@ -7,6 +7,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import LoadingBar from 'react-top-loading-bar';
 import ScrollVelocity from './components/ScrollVelocity';
+import AnimatedCursor from "react-animated-cursor"
 
 function App() {
   const { t, i18n } = useTranslation();
@@ -239,7 +240,19 @@ function App() {
         height={2}
         onLoaderFinished={() => setProgress(0)}
       />)}
-
+      <AnimatedCursor
+        innerSize={8}
+        outerSize={35}
+        innerScale={1}
+        outerScale={2}
+        outerAlpha={0}
+        innerStyle={{
+          backgroundColor: 'transparent',
+        }}
+        outerStyle={{
+          border: '1px solid #fff'
+        }}
+      />
       <section id='hero' className='hero' >
         <div className='i18n'>
           <p
